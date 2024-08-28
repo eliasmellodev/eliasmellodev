@@ -9,9 +9,9 @@
 <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+    <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
 </div>
-<divbr></<
-Sobre Mim
+
+### Sobre Mim
 Como estudante de Análise e Desenvolvimento de Sistemas, estou imerso em um ambiente dinâmico onde a tecnologia encontra a criatividade. Minha jornada acadêmica me permite explorar e dominar uma ampla gama de ferramentas e técnicas, desde a construção de soluções de software até a análise de sistemas complexos. Com uma paixão por resolver problemas e criar inovações, estou sempre em busca de novos desafios para aplicar meu conhecimento e contribuir para projetos impactantes.
